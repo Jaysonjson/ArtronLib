@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"main": [
 			"com.dait.Artronlib"
+		],
+		"client": [
+			"com.dait.client.ArtronLibClient"
 		]
 	},
 	"mixins": [
